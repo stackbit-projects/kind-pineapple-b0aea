@@ -7,7 +7,7 @@ sections:
     title: 'Hi, we think going slow and steady is a good thing.'
     content: Afterall rome wasn't built in a day!
     actions:
-      - label: Let's talk
+      - label: Let's Learn!
         url: /contact
         style: button
   - section_id: latest-projects
